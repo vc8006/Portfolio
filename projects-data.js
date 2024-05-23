@@ -24,7 +24,7 @@ const projects = {
       new_page: true
     },
     project4: {
-        title: "Euro India Consultancy",
+        title: "Euro India Consultancy Ltd India",
         imgSrc: "./assets/euroIndia.png",
         description: "Detailed description of Project Three.",
         github: "https://euro-india.in/",
