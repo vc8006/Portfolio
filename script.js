@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Iterate over the projects object and create HTML for each project
   for (const [key, project] of Object.entries(projects)) {
     const projectElement = document.createElement("div");
-    projectElement.className = "details-container-main color-container";
+    projectElement.className = "details-container color-container";
 
     projectElement.innerHTML = `
       <div class="article-container">
