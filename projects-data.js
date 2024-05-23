@@ -22,6 +22,14 @@ const projects = {
       github: "http://vedantvc8006.pythonanywhere.com/",
       liveDemo: "https://github.com/vc8006",
       new_page: true
-    }
+    },
+    project4: {
+        title: "Euro India Consultancy",
+        imgSrc: "./assets/euroIndia.png",
+        description: "Detailed description of Project Three.",
+        github: "https://euro-india.in/",
+        liveDemo: "https://github.com/vc8006/euroIndia",
+        new_page: true
+      }
   };
   
